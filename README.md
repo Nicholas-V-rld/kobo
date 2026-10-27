@@ -1,5 +1,7 @@
 # Kobo
 
+> Built by Daniel Oyinloluwa and Nicholas V. as a team.
+
 Income and spending tracker for freelancers (PWA). React + Vite frontend, Convex backend with password auth.
 
 - Live: https://kobo-jade.vercel.app (Vercel project `majostechs-projects/kobo`)
